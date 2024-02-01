@@ -98,3 +98,10 @@ footer {
 #footer_subscribe p {
     color: var(--color-neutral-30);
 }
+
+#input_group {
+    display: flex;
+    align-items: center;
+    background-color: var(--color-neutral-0);
+    border-radius: 4px;
+}
