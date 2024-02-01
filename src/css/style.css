@@ -94,3 +94,7 @@ footer {
    flex-direction: column; 
    gap: 1.5rem;
 }
+
+#footer_subscribe p {
+    color: var(--color-neutral-30);
+}
