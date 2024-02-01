@@ -49,6 +49,11 @@ footer {
     width: 2.5rem;
     color: var(--color-neutral-40);
     border-radius: 50%;
+    transition: all 0.4s;
+}
+
+#footer_social_media .footer_link:hover {
+    opacity: 0.8;
 }
 
 #instagram {
