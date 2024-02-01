@@ -52,6 +52,10 @@ footer {
     transition: all 0.4s;
 }
 
+#footer_social_media .footer_link i {
+    font-size: 1.5rem;
+}
+
 #footer_social_media .footer_link:hover {
     opacity: 0.8;
 }
