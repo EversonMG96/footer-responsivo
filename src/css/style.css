@@ -88,3 +88,9 @@ footer {
 .footer-list .footer-link:hover {
     color: #7f37c9;
 }
+
+#footer_subscribe {
+   display: flex;
+   flex-direction: column; 
+   gap: 1.5rem;
+}
