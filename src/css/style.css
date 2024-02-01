@@ -37,6 +37,10 @@ footer {
     margin-top: 1.5rem;
 }
 
+.footer_link {
+    text-decoration: none;
+}
+
 #footer_social_media .footer_link {
     display: flex;
     align-items: center;
@@ -49,4 +53,12 @@ footer {
 
 #instagram {
     background: linear-gradient(#7f37c9, #ff2992, #ff9807);
+}
+
+#facebook {
+    background: #4267b3;
+}
+
+#whatsapp {
+    background: #25d366;
 }
