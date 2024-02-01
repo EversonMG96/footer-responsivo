@@ -121,4 +121,9 @@ footer {
     height: 100%;
     border-radius: 0px 4px 4px 0px;
     cursor: pointer;
+    transition: all 0.4s;
 }
+
+#input_group button:hover {
+    opacity: 0.8;
+} 
