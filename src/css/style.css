@@ -37,9 +37,16 @@ footer {
     margin-top: 1.5rem;
 }
 
-#footer_social_media .footer-link {
+#footer_social_media .footer_link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 2.5rem;
     width: 2.5rem;
     color: var(--color-neutral-40);
     border-radius: 50%;
+}
+
+#instagram {
+    background: linear-gradient(#7f37c9, #ff2992, #ff9807);
 }
